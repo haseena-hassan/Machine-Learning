@@ -1,4 +1,4 @@
-<h1>Machine Leaning<h1>
+#Machine Leaning
 
 This repository contains concepts which I learned so far on machine learning and some hands on algorithms on python and octave.
 
